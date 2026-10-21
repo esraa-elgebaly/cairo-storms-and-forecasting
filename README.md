@@ -362,12 +362,6 @@ jupyter notebook Weather_Predication.ipynb
 ## 🙏 Acknowledgments
 
 - **Data:** [NASA POWER Project](https://power.larc.nasa.gov/), NASA Langley Research Center
-- **Program:** Cellula Technologies ML internship, Task 4
-
 <div align="center">
-
-**Esraa Elgebaly**
-
-⭐ If you found this project useful, consider giving it a star.
 
 </div>
